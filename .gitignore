@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.zip
+
+# Dataset
+dataset/*
+!dataset/README.md
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
