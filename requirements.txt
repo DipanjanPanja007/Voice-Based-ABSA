@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+torch
+transformers
+datasets
+librosa
+soundfile
+openai-whisper
+tensorflow
+keras
+fastapi
+uvicorn
